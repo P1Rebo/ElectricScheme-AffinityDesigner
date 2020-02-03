@@ -1,6 +1,8 @@
 # ElectricScheme-AffinityDesigner
 Template of an Electric Scheme as Affinity Designer Layer (Elektroplan-Vorlage).
-Since I spend some hours searching for some best fitting icons, maybe somebody has a usage :-)
+I spend some hours searching for some best fitting tools and icons. At the end, I made them by myself.
+
+Maybe somebody has a usage :-)
 
 ## Usage
 Just import the psd-File into Affinity Designer (or maybe also other Tools, didn't try).
